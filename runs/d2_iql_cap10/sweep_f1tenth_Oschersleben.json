@@ -1,0 +1,104 @@
+{
+  "run_dir": "runs/d2_iql_cap10",
+  "task": "f1tenth_Oschersleben",
+  "v_max": 20.0,
+  "episodes": 1,
+  "rows": [
+    {
+      "step": 25000,
+      "file": "checkpoint_25000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 259
+    },
+    {
+      "step": 50000,
+      "file": "checkpoint_50000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 2422
+    },
+    {
+      "step": 75000,
+      "file": "checkpoint_75000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 55
+    },
+    {
+      "step": 100000,
+      "file": "checkpoint_100000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 71
+    },
+    {
+      "step": 125000,
+      "file": "checkpoint_125000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 173
+    },
+    {
+      "step": 150000,
+      "file": "checkpoint_150000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 315
+    },
+    {
+      "step": 175000,
+      "file": "checkpoint_175000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 803
+    },
+    {
+      "step": 200000,
+      "file": "checkpoint_200000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 803
+    },
+    {
+      "step": 225000,
+      "file": "checkpoint_225000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 247
+    },
+    {
+      "step": 250000,
+      "file": "checkpoint_250000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 702
+    },
+    {
+      "step": 275000,
+      "file": "checkpoint_275000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 304
+    },
+    {
+      "step": 300000,
+      "file": "checkpoint_300000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 271
+    }
+  ]
+}
