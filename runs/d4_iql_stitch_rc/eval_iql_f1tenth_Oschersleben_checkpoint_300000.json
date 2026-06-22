@@ -1,0 +1,56 @@
+{
+  "task": "f1tenth_Oschersleben",
+  "ckpt": "runs/d4_iql_stitch_rc/checkpoint_300000.pt",
+  "v_max": 20.0,
+  "episodes": 3,
+  "aggregate": {
+    "n_episodes": 3,
+    "n_completed": 3,
+    "completion_rate": 1.0,
+    "n_laps": 6,
+    "lap_median": 17.4399995803833,
+    "lap_best": 16.81999969482422,
+    "cause_counts": {
+      "lap_complete": 3
+    }
+  },
+  "best_2lap_s": 34.88,
+  "median_2lap_s": 34.88,
+  "baseline_2lap_s": 107.16,
+  "cap10_record_s": 56.14,
+  "per_episode": [
+    {
+      "cause": "lap_complete",
+      "lap_times": [
+        18.059999465942383,
+        16.81999969482422
+      ],
+      "length": 1744,
+      "return": 749.5901845550538,
+      "total_time_s": 34.88,
+      "two_lap_sum_s": 34.88
+    },
+    {
+      "cause": "lap_complete",
+      "lap_times": [
+        18.059999465942383,
+        16.81999969482422
+      ],
+      "length": 1744,
+      "return": 749.5901845550538,
+      "total_time_s": 34.88,
+      "two_lap_sum_s": 34.88
+    },
+    {
+      "cause": "lap_complete",
+      "lap_times": [
+        18.059999465942383,
+        16.81999969482422
+      ],
+      "length": 1744,
+      "return": 749.5901845550538,
+      "total_time_s": 34.88,
+      "two_lap_sum_s": 34.88
+    }
+  ]
+}
