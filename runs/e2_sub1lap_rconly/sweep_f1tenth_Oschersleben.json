@@ -1,0 +1,248 @@
+{
+  "run_dir": "runs/e2_sub1lap_rconly",
+  "task": "f1tenth_Oschersleben",
+  "v_max": 20.0,
+  "episodes": 1,
+  "rows": [
+    {
+      "step": 20000,
+      "file": "checkpoint_20000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 283
+    },
+    {
+      "step": 40000,
+      "file": "checkpoint_40000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 306
+    },
+    {
+      "step": 60000,
+      "file": "checkpoint_60000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 310
+    },
+    {
+      "step": 80000,
+      "file": "checkpoint_80000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 520
+    },
+    {
+      "step": 100000,
+      "file": "checkpoint_100000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 432
+    },
+    {
+      "step": 120000,
+      "file": "checkpoint_120000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 149
+    },
+    {
+      "step": 140000,
+      "file": "checkpoint_140000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 142
+    },
+    {
+      "step": 160000,
+      "file": "checkpoint_160000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 268
+    },
+    {
+      "step": 180000,
+      "file": "checkpoint_180000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 304
+    },
+    {
+      "step": 200000,
+      "file": "checkpoint_200000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 699
+    },
+    {
+      "step": 220000,
+      "file": "checkpoint_220000.pt",
+      "completion": 1.0,
+      "best_2lap": 34.92,
+      "cause": "lap_complete",
+      "len": 1746
+    },
+    {
+      "step": 240000,
+      "file": "checkpoint_240000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 418
+    },
+    {
+      "step": 260000,
+      "file": "checkpoint_260000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 151
+    },
+    {
+      "step": 280000,
+      "file": "checkpoint_280000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 525
+    },
+    {
+      "step": 300000,
+      "file": "checkpoint_300000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 211
+    },
+    {
+      "step": 320000,
+      "file": "checkpoint_320000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 334
+    },
+    {
+      "step": 340000,
+      "file": "checkpoint_340000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 461
+    },
+    {
+      "step": 360000,
+      "file": "checkpoint_360000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 281
+    },
+    {
+      "step": 380000,
+      "file": "checkpoint_380000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 426
+    },
+    {
+      "step": 400000,
+      "file": "checkpoint_400000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 706
+    },
+    {
+      "step": 420000,
+      "file": "checkpoint_420000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 301
+    },
+    {
+      "step": 440000,
+      "file": "checkpoint_440000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 270
+    },
+    {
+      "step": 460000,
+      "file": "checkpoint_460000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 1279
+    },
+    {
+      "step": 480000,
+      "file": "checkpoint_480000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 873
+    },
+    {
+      "step": 500000,
+      "file": "checkpoint_500000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 433
+    },
+    {
+      "step": 520000,
+      "file": "checkpoint_520000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 553
+    },
+    {
+      "step": 540000,
+      "file": "checkpoint_540000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 441
+    },
+    {
+      "step": 560000,
+      "file": "checkpoint_560000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 282
+    },
+    {
+      "step": 580000,
+      "file": "checkpoint_580000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 1570
+    },
+    {
+      "step": 600000,
+      "file": "checkpoint_600000.pt",
+      "completion": 0.0,
+      "best_2lap": null,
+      "cause": "collision",
+      "len": 1016
+    }
+  ]
+}

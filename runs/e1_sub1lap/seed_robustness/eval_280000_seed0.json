@@ -1,0 +1,34 @@
+{
+  "task": "f1tenth_Oschersleben",
+  "ckpt": "runs/e1_sub1lap/checkpoint_280000.pt",
+  "v_max": 20.0,
+  "episodes": 1,
+  "aggregate": {
+    "n_episodes": 1,
+    "n_completed": 1,
+    "completion_rate": 1.0,
+    "n_laps": 2,
+    "lap_median": 17.359999656677246,
+    "lap_best": 16.899999618530273,
+    "cause_counts": {
+      "lap_complete": 1
+    }
+  },
+  "best_2lap_s": 34.72,
+  "median_2lap_s": 34.72,
+  "baseline_2lap_s": 107.16,
+  "cap10_record_s": 56.14,
+  "per_episode": [
+    {
+      "cause": "lap_complete",
+      "lap_times": [
+        17.81999969482422,
+        16.899999618530273
+      ],
+      "length": 1736,
+      "return": 750.1232522583009,
+      "total_time_s": 34.72,
+      "two_lap_sum_s": 34.72
+    }
+  ]
+}
